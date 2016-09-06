@@ -1,2 +1,2 @@
 # hello-world
-this repository is to store mas_coure.
+this repository is created to store mas_coure.
